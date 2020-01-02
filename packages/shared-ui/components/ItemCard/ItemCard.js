@@ -14,10 +14,10 @@ const Card = styled.div`
   cursor: pointer;
   transition: all 150ms ease-in
   width: 30%;
-  
+
   &:hover {
     position: relative;
-    transform: translateY(-5px);
+    transform: translateY(-15px);
     box-shadow: 0px 6px 20px 0px rgba(0,0,0,0.25);
   }
 `
