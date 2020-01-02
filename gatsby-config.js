@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Learning Lerna through Monorepos with Rico',
+    title: 'Monorepo example with lerna',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
